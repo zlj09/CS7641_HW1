@@ -95,4 +95,4 @@ def multiple_choice():
         - return 3 if: Both are about the same in space and time complexity.
 
     '''
-    return 3
+    return 1
